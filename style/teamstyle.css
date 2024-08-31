@@ -1,0 +1,131 @@
+body {
+    background-color: black;
+}
+
+div.linksMenu {
+    background-color:firebrick;
+    width: 350px;
+    height: 50px;
+    margin: 10px auto -10px auto;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+
+a.footerLinks {
+    color:lightskyblue;
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    font-size: large;
+    color: white;
+    padding: 20px 0 0 0;
+    margin: 160px 0 0 0;
+}
+
+a.Links {
+    color: white;
+    padding-left: 27.5px;
+    padding-top: 10px;
+    display: inline-block;
+    font-size: x-large;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 70px;
+    text-align: center;
+    text-decoration: underline brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(27, 27, 27);
+    border: solid 2px;
+    border-radius: 7px;
+    width: 500px;
+    padding: 4px;
+    margin: 5px auto 30px auto;
+}
+
+div#teamBlock {
+    border: solid 2px lightblue;
+    background-color:darkgrey;
+    border-radius: 5px;
+    width: 1750px;
+    margin: 0 auto 0 auto;
+    max-height: fit-content;
+    min-height: 500px;
+}
+
+p.memberName {
+    color: white;
+    text-align: center;
+    font-size:60px;
+    margin: 9px auto -10px auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.memberBlock {
+    border: solid 1px lightcoral;
+    background-color:black;
+    border-radius: 7.5px;
+    max-width: fit-content;
+    min-width: 1500px;
+    max-height: fit-content;
+    min-height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+p.work {
+    color:lightcyan;
+    font-size:large;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+button.discord {
+    display: block;
+    margin: 50px auto 20px auto;
+    border: solid 1px;
+    border-radius: 5px;
+    background-color:darkred;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: medium;
+}
+
+button.instagram {
+    display: block;
+    margin: 0 auto 20px auto;
+    border: solid 1px;
+    border-radius: 5px;
+    background-color:firebrick;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: medium;
+}
+
+button.tiktok {
+    display: block;
+    margin: 0 auto 20px auto;
+    border: solid 1px;
+    border-radius: 5px;
+    background-color:crimson;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: medium;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 75px auto 0 auto;
+    display: block;
+    border: solid 2px white;
+    border-radius: 15px;
+}

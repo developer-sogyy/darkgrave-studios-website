@@ -138,7 +138,7 @@ a.footerLinks {
 @media screen and (max-width: 600px)
 {
     h1 {
-    font-size: 70px;
-    width: 400px;
+    font-size: 35px;
+    width: 300px;
 }
 }

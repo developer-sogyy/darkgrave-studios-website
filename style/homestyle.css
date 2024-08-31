@@ -146,4 +146,9 @@ a.footerLinks {
     width: 250px;
     margin: 0 0 0 15px;
 }
+
+    div#mainInfoDiv {
+    width: 250px;
+    margin: 0 0 0 20px;
+}
 }

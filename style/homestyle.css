@@ -141,4 +141,9 @@ a.footerLinks {
     font-size: 35px;
     width: 300px;
 }
+
+    div#newsDiv {
+    width: 500px;
+    margin: 0 0 0 10px;
+}
 }

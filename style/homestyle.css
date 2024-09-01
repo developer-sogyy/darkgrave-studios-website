@@ -135,20 +135,10 @@ a.footerLinks {
     padding-left: 20px;
 }
 
-@media screen and (max-width: 600px)
-{
-    h1 {
-    font-size: 35px;
-    width: 300px;
-}
 
-    div#newsDiv {
-    width: 250px;
-    margin: 0 0 0 15px;
-}
-
-    div#mainInfoDiv {
-    width: 250px;
-    margin: 0 0 0 20px;
-}
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  h1, body, div#newsDiv {
+    width: 100%;
+  }
 }

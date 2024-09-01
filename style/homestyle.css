@@ -142,7 +142,7 @@ a.footerLinks {
     font-size: 10vw;
     }
 
-    div#newsDiv, div#infoDiv, div#mainInfoDiv 
+    div#newsDiv, div#infoDiv, div#mainInfoDiv, p 
     {
         margin: 0 0 0 20px;
     }

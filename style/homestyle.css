@@ -119,11 +119,13 @@ div.linksMenu {
 p.titleP {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: larger;
+    margin: 0 0 5px 0;
 }
 
 p.titleProjets {
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
+    margin: 0 0 5px 0;
 }
 
 a.footerLinks {

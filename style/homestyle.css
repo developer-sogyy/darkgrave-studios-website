@@ -138,7 +138,12 @@ a.footerLinks {
 
 @media only screen and (max-width: 620px) {
   /* For mobile phones: */
-  h1, body, div#newsDiv, p, div#bg {
+  h1, body, p {
     width: 100%;
   }
+
+    div#newsDiv, div#infoDiv, div#mainInfoDiv 
+    {
+        margin: 0 0 0 20px;
+    }
 }

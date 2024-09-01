@@ -138,6 +138,10 @@ a.footerLinks {
     width: 100%;
   }
 
+    h1 {
+    font-size: 10vw;
+    }
+
     div#newsDiv, div#infoDiv, div#mainInfoDiv 
     {
         margin: 0 0 0 20px;

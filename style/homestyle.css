@@ -134,7 +134,7 @@ a.footerLinks {
 
 @media only screen and (max-width: 620px) {
   /* For mobile phones: */
-  h1, div#bg, p {
+  h1, div#bg, p, div.linksMenu {
     width: 100%;
   }
 

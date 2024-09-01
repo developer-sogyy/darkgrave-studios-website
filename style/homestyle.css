@@ -142,4 +142,9 @@ a.footerLinks {
     {
         margin: 0 0 0 20px;
     }
+
+    p#aboutP 
+    {
+        font-size: 5vw;
+    }
 }
